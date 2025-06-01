@@ -1,4 +1,4 @@
-package b_1940;
+package beakjoon.b_1940;
 
 
 //런타임 에러 발생

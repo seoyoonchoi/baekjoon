@@ -1,4 +1,4 @@
-package b_1874;
+package beakjoon.b_1874;
 
 
 import java.util.Stack;

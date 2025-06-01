@@ -1,4 +1,4 @@
-package b_1940;
+package beakjoon.b_1940;
 
 import java.util.Arrays;
 import java.util.Scanner;

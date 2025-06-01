@@ -1,4 +1,4 @@
-package b_2018;
+package beakjoon.b_2018;
 
 import java.util.Scanner;
 public class Main {
